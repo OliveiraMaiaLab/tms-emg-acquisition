@@ -1,5 +1,3 @@
-# tms-emg-acquisition
-
 # TMS-EMG Acquisition Workflow
 
 This repository contains a **Bonsai workflow for acquiring electromyography (EMG) signals during transcranial magnetic stimulation (TMS)**.  
