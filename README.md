@@ -13,7 +13,7 @@ The workflow relies on an **in-house built acquisition system** developed by the
 1. **Install Bonsai**  
    Download and install the [Bonsai software](https://bonsai-rx.org/).  
 
-2. **Install the acquisition system package**  
+2. **Install the acquisition system package alongside all other required packages**  
    - The required package is included in the [`acqboard_package`](./acqboard_package) folder.  
    - It is also available at:  
      - [Neuro-Archive: Bonsai.ChampalimaudHardware/AcqSystem](https://github.com/bonsai-rx/neuro-archive/tree/main/Bonsai.ChampalimaudHardware/AcqSystem)  
