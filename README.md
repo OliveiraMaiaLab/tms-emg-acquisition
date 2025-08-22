@@ -40,7 +40,7 @@ Open the **Bonsai** software and select the file containing the script for EMG d
 
 Once all the preparations for the sessions are concluded, proceed to **start the script**.  
 
-![Valid EMG Example](images/valid_emg.png)
+![Valid EMG Example](./images/bonsai_start.png)
 
 </details>
 
